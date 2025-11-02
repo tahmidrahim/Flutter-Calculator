@@ -1,6 +1,8 @@
 # calculator
 
 A new Flutter project.
+![Calculator App](flutter_01.png)
+
 
 ## Getting Started
 
